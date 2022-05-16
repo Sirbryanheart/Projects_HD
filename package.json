@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Repositorio Proyectos Digital House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirbryanheart/Projects_HD.git"
+  },
+  "author": "Carlos Giovanny Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirbryanheart/Projects_HD/issues"
+  },
+  "homepage": "https://github.com/Sirbryanheart/Projects_HD#readme"
+}
