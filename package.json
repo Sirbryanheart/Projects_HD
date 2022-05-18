@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sirbryanheart/Projects_HD/issues"
   },
-  "homepage": "https://github.com/Sirbryanheart/Projects_HD#readme"
+  "homepage": "https://github.com/Sirbryanheart/Projects_HD#readme",
+  "dependencies": {
+    "zodiac-signs": "^1.1.0"
+  }
 }
