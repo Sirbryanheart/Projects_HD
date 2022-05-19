@@ -54,7 +54,6 @@ console.log(
     giovanny[2] +
     " y los datos de mi signo son: "
 );
-
 signo = zodiacSigns.getSignByDate({day:6,month:5});
 console.log(signo);
 
