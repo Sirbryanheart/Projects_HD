@@ -1,0 +1,41 @@
+[
+    {
+        "titulo":"Introducción NodeJS",
+        "estado":"terminada"
+    },
+    
+    {
+        "titulo":"Introducción JavaScript",
+        "estado":"terminada"
+    },
+
+    {
+        "titulo":"Instalación NodeJS",
+        "estado":"terminada"
+    },
+
+    {
+        "titulo":"Instalación Visual Code",
+        "estado":"terminada"
+    },
+
+    {
+        "titulo":"Clase Variables",
+        "estado":"en progreso"
+    },
+
+    {
+        "titulo":"Proyecto de Prueba",
+        "estado":"en progreso"
+    },
+    
+    {
+        "titulo":"Envío de Proyecto",
+        "estado":"pendiente"
+    },
+
+    {
+        "titulo":"Proyecto Final",
+        "estado":"pendiente"
+    }
+]
